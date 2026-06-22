@@ -1,0 +1,1 @@
+# Logs\nlogs\n*.log\nnpm-debug.log*\nyarn-debug.log*\nyarn-error.log*\n\n# Dependencies\nnode_modules/\n\n# Build\ndist/\nbuild/\nout/\n\n# IDE\n.vscode\n.idea\n*.swp\n*.swo\n\n# OS\n.DS_Store\nThumbs.db\n\n# Environment\n.env\n.env.local\n.env.*.local\n\n# Backup\n*.backup\n*.bak
